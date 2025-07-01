@@ -4,7 +4,7 @@ This repository contains documentation for integrating the Savvy Insurance ifram
 
 ## Overview
 
-The Savvy Insurance iframe ad is a dynamic insurance quote widget that can be embedded into any website to provide users with instant insurance quotes. The ad is hosted at:
+The Savvy Insurance iframe ad is a dynamic insurance quote widget that can be embedded into any website to kickstart your visitors' shopping journey. The ad is hosted at:
 
 **CDN URL:** `https://cdn.savvy.insure/publisher/v1.0/index.html`
 
